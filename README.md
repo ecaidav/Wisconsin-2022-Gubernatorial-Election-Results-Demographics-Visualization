@@ -1,4 +1,4 @@
-# Wisconsin-2022-Gubernatorial-Election-Results-Demographics-Visualization
+# Wisconsin-2022-Gubernatorial-Election-Results-Map
 
 This Jupyter notebook (published via Google Colab) leverages an [OpenElections](https://github.com/openelections) respository with Wisconsin 2022 election data. It uses Python and Pandas to group election results by county and party, specifically for the gubernatorial race. 
 
